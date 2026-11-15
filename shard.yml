@@ -1,0 +1,13 @@
+name: purpnet
+version: 0.1.0
+
+authors:
+  - Max Shablin <maksimchick@mail.ru>
+
+targets:
+  purpnet:
+    main: src/purpnet.cr
+
+crystal: '>= 1.22.2'
+
+license: MIT
